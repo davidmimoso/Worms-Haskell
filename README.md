@@ -1,2 +1,12 @@
-# Worms-Haskell
-Implementação do jogo Worms em Haskell. Projeto de laboratorios de algoritmia - Universidade do Minho
+# Worms - Implementação em Haskell 
+
+Uma implementação funcional do clássico jogo **Worms**, desenvolvida inteiramente em **Haskell**. Este projeto foi criado como trabalho final de laboratórios de programação 1 na Universidade do Minho.
+
+### 🎮 Sobre o Jogo
+O projeto recria as mecânicas base do jogo Worms utilizando estritamente o paradigma da programação funcional. O foco principal do desenvolvimento passou pela criação de algoritmos complexos para:
+* Representação e manipulação do estado do jogo .
+* Lógica de física, movimento e colisões.
+* Sistema de turnos e interação de entidades no mapa.
+
+### 🛠️ Tecnologias Utilizadas
+* **Linguagem:** Haskell
